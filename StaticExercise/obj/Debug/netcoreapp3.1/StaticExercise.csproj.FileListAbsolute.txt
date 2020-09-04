@@ -1,0 +1,12 @@
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.deps.json
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.runtimeconfig.json
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.runtimeconfig.dev.json
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.dll
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.pdb
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.csprojAssemblyReference.cache
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.AssemblyInfoInputs.cache
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.AssemblyInfo.cs
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.dll
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.pdb
+/Users/chazsherrill/Projects/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.genruntimeconfig.cache
